@@ -1,0 +1,2 @@
+# Smart Inventory & Order Management System
+# No external packages required
